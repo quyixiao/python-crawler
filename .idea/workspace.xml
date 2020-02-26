@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="771ea3aa-becf-4398-ad6e-a02a92fe38cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/jiebatest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jiebatest/jiebatest1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redistest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redistest/test_redis1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redistest/test_redis2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/spiders/dbbook.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/spiders/dbbook.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbbookspider.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,23 +37,24 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/redistest" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/book" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/redistest" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.test26_selenium">
-    <configuration name="test22_selenium" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.jiebatest1">
+    <configuration name="jiebatest1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,78 +62,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jiebatest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test22_selenium.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test23_selenium" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test23_selenium.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test24_selenium" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test24_selenium.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test25_selenium" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test25_selenium.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiebatest/jiebatest1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,13 +98,79 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_redis1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/redistest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/redistest/test_redis1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_redis1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/redis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/redis/test_redis1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_redis2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/redistest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/redistest/test_redis2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.jiebatest1" />
+        <item itemvalue="Python.test_redis2" />
+        <item itemvalue="Python.test_redis1 (1)" />
+        <item itemvalue="Python.test_redis1" />
         <item itemvalue="Python.test26_selenium" />
-        <item itemvalue="Python.test25_selenium" />
-        <item itemvalue="Python.test24_selenium" />
-        <item itemvalue="Python.test23_selenium" />
-        <item itemvalue="Python.test22_selenium" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +200,8 @@
       <workItem from="1582642559746" duration="175000" />
       <workItem from="1582642751690" duration="3491000" />
       <workItem from="1582683128151" duration="14806000" />
-      <workItem from="1582709414794" duration="3020000" />
+      <workItem from="1582709414794" duration="3626000" />
+      <workItem from="1582724195667" duration="2476000" />
     </task>
     <servers />
   </component>
@@ -211,11 +213,14 @@
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
     <state x="698" y="-784" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/38.0.1402.900/0.-1080.1920.1080/-1920.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582624404562" />
-    <state width="1878" height="365" key="GridCell.Tab.0.bottom" timestamp="1582709369088">
-      <screen x="0" y="-1080" width="1920" height="1080" />
+    <state width="1398" height="399" key="GridCell.Tab.0.bottom" timestamp="1582726798498">
+      <screen x="1920" y="180" width="1440" height="900" />
     </state>
-    <state width="1398" height="337" key="GridCell.Tab.0.bottom/1920.180.1440.900/44.0.1876.1080@1920.180.1440.900" timestamp="1582646283334" />
+    <state width="1833" height="280" key="GridCell.Tab.0.bottom/1920.180.1440.900/43.0.1877.1080@43.0.1877.1080" timestamp="1582725288522" />
+    <state width="1398" height="399" key="GridCell.Tab.0.bottom/1920.180.1440.900/44.0.1876.1080@1920.180.1440.900" timestamp="1582726798498" />
+    <state width="1833" height="388" key="GridCell.Tab.0.bottom/1920.180.1440.900/44.0.1876.1080@44.0.1876.1080" timestamp="1582724720235" />
     <state width="1398" height="358" key="GridCell.Tab.0.bottom/1920.180.1440.900/45.0.1875.1080@1920.180.1440.900" timestamp="1582644469611" />
+    <state width="1833" height="388" key="GridCell.Tab.0.bottom/1920.180.1440.900/45.0.1875.1080@45.0.1875.1080" timestamp="1582724624847" />
     <state width="1878" height="314" key="GridCell.Tab.0.bottom/38.0.1402.900/0.-1080.1920.1080/-1920.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582626183337" />
     <state width="1398" height="294" key="GridCell.Tab.0.bottom/38.0.1402.900@38.0.1402.900" timestamp="1582646677867" />
     <state width="1878" height="365" key="GridCell.Tab.0.bottom/39.0.1401.900/0.-1080.1920.1080/-1920.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582709369088" />
@@ -225,11 +230,14 @@
     <state width="1355" height="242" key="GridCell.Tab.0.bottom/43.0.1397.900/0.-1080.1920.1080/-1920.-1080.1920.1080@43.0.1397.900" timestamp="1582684024245" />
     <state width="1878" height="328" key="GridCell.Tab.0.bottom/44.0.1396.900/0.-1080.1920.1080/-1920.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582685362349" />
     <state width="1355" height="260" key="GridCell.Tab.0.bottom/44.0.1396.900/0.-1080.1920.1080/-1920.-1080.1920.1080@44.0.1396.900" timestamp="1582684209577" />
-    <state width="1878" height="365" key="GridCell.Tab.0.center" timestamp="1582709369087">
-      <screen x="0" y="-1080" width="1920" height="1080" />
+    <state width="1398" height="399" key="GridCell.Tab.0.center" timestamp="1582726798497">
+      <screen x="1920" y="180" width="1440" height="900" />
     </state>
-    <state width="1398" height="337" key="GridCell.Tab.0.center/1920.180.1440.900/44.0.1876.1080@1920.180.1440.900" timestamp="1582646283333" />
+    <state width="1833" height="280" key="GridCell.Tab.0.center/1920.180.1440.900/43.0.1877.1080@43.0.1877.1080" timestamp="1582725288521" />
+    <state width="1398" height="399" key="GridCell.Tab.0.center/1920.180.1440.900/44.0.1876.1080@1920.180.1440.900" timestamp="1582726798497" />
+    <state width="1833" height="388" key="GridCell.Tab.0.center/1920.180.1440.900/44.0.1876.1080@44.0.1876.1080" timestamp="1582724720234" />
     <state width="1398" height="358" key="GridCell.Tab.0.center/1920.180.1440.900/45.0.1875.1080@1920.180.1440.900" timestamp="1582644469607" />
+    <state width="1833" height="388" key="GridCell.Tab.0.center/1920.180.1440.900/45.0.1875.1080@45.0.1875.1080" timestamp="1582724624846" />
     <state width="1878" height="314" key="GridCell.Tab.0.center/38.0.1402.900/0.-1080.1920.1080/-1920.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582626183336" />
     <state width="1398" height="294" key="GridCell.Tab.0.center/38.0.1402.900@38.0.1402.900" timestamp="1582646677867" />
     <state width="1878" height="365" key="GridCell.Tab.0.center/39.0.1401.900/0.-1080.1920.1080/-1920.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582709369087" />
@@ -239,11 +247,14 @@
     <state width="1355" height="242" key="GridCell.Tab.0.center/43.0.1397.900/0.-1080.1920.1080/-1920.-1080.1920.1080@43.0.1397.900" timestamp="1582684024244" />
     <state width="1878" height="328" key="GridCell.Tab.0.center/44.0.1396.900/0.-1080.1920.1080/-1920.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582685362349" />
     <state width="1355" height="260" key="GridCell.Tab.0.center/44.0.1396.900/0.-1080.1920.1080/-1920.-1080.1920.1080@44.0.1396.900" timestamp="1582684209577" />
-    <state width="1878" height="365" key="GridCell.Tab.0.left" timestamp="1582709369087">
-      <screen x="0" y="-1080" width="1920" height="1080" />
+    <state width="1398" height="399" key="GridCell.Tab.0.left" timestamp="1582726798496">
+      <screen x="1920" y="180" width="1440" height="900" />
     </state>
-    <state width="1398" height="337" key="GridCell.Tab.0.left/1920.180.1440.900/44.0.1876.1080@1920.180.1440.900" timestamp="1582646283332" />
+    <state width="1833" height="280" key="GridCell.Tab.0.left/1920.180.1440.900/43.0.1877.1080@43.0.1877.1080" timestamp="1582725288520" />
+    <state width="1398" height="399" key="GridCell.Tab.0.left/1920.180.1440.900/44.0.1876.1080@1920.180.1440.900" timestamp="1582726798496" />
+    <state width="1833" height="388" key="GridCell.Tab.0.left/1920.180.1440.900/44.0.1876.1080@44.0.1876.1080" timestamp="1582724720234" />
     <state width="1398" height="358" key="GridCell.Tab.0.left/1920.180.1440.900/45.0.1875.1080@1920.180.1440.900" timestamp="1582644469607" />
+    <state width="1833" height="388" key="GridCell.Tab.0.left/1920.180.1440.900/45.0.1875.1080@45.0.1875.1080" timestamp="1582724624846" />
     <state width="1878" height="314" key="GridCell.Tab.0.left/38.0.1402.900/0.-1080.1920.1080/-1920.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582626183336" />
     <state width="1398" height="294" key="GridCell.Tab.0.left/38.0.1402.900@38.0.1402.900" timestamp="1582646677866" />
     <state width="1878" height="365" key="GridCell.Tab.0.left/39.0.1401.900/0.-1080.1920.1080/-1920.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582709369087" />
@@ -253,11 +264,14 @@
     <state width="1355" height="242" key="GridCell.Tab.0.left/43.0.1397.900/0.-1080.1920.1080/-1920.-1080.1920.1080@43.0.1397.900" timestamp="1582684024243" />
     <state width="1878" height="328" key="GridCell.Tab.0.left/44.0.1396.900/0.-1080.1920.1080/-1920.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582685362348" />
     <state width="1355" height="260" key="GridCell.Tab.0.left/44.0.1396.900/0.-1080.1920.1080/-1920.-1080.1920.1080@44.0.1396.900" timestamp="1582684209576" />
-    <state width="1878" height="365" key="GridCell.Tab.0.right" timestamp="1582709369088">
-      <screen x="0" y="-1080" width="1920" height="1080" />
+    <state width="1398" height="399" key="GridCell.Tab.0.right" timestamp="1582726798497">
+      <screen x="1920" y="180" width="1440" height="900" />
     </state>
-    <state width="1398" height="337" key="GridCell.Tab.0.right/1920.180.1440.900/44.0.1876.1080@1920.180.1440.900" timestamp="1582646283333" />
+    <state width="1833" height="280" key="GridCell.Tab.0.right/1920.180.1440.900/43.0.1877.1080@43.0.1877.1080" timestamp="1582725288522" />
+    <state width="1398" height="399" key="GridCell.Tab.0.right/1920.180.1440.900/44.0.1876.1080@1920.180.1440.900" timestamp="1582726798497" />
+    <state width="1833" height="388" key="GridCell.Tab.0.right/1920.180.1440.900/44.0.1876.1080@44.0.1876.1080" timestamp="1582724720235" />
     <state width="1398" height="358" key="GridCell.Tab.0.right/1920.180.1440.900/45.0.1875.1080@1920.180.1440.900" timestamp="1582644469611" />
+    <state width="1833" height="388" key="GridCell.Tab.0.right/1920.180.1440.900/45.0.1875.1080@45.0.1875.1080" timestamp="1582724624847" />
     <state width="1878" height="314" key="GridCell.Tab.0.right/38.0.1402.900/0.-1080.1920.1080/-1920.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582626183337" />
     <state width="1398" height="294" key="GridCell.Tab.0.right/38.0.1402.900@38.0.1402.900" timestamp="1582646677867" />
     <state width="1878" height="365" key="GridCell.Tab.0.right/39.0.1401.900/0.-1080.1920.1080/-1920.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582709369088" />
@@ -314,12 +328,16 @@
     <SUITE FILE_PATH="coverage/python_crawler$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1582623997982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_crawler$test8_urllib3.coverage" NAME="test8_urllib3 Coverage Results" MODIFIED="1582644891124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_crawler$test14_BeautifulSoup.coverage" NAME="test14_BeautifulSoup Coverage Results" MODIFIED="1582646045339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_crawler$test_redis1.coverage" NAME="test_redis1 Coverage Results" MODIFIED="1582724595788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redis" />
     <SUITE FILE_PATH="coverage/python_crawler$test22_selenium.coverage" NAME="test22_selenium Coverage Results" MODIFIED="1582692611853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_crawler$test25_selenium.coverage" NAME="test25_selenium Coverage Results" MODIFIED="1582700274093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_crawler$test.coverage" NAME="test Coverage Results" MODIFIED="1582623289966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_crawler$test16_BeautifulSoup.coverage" NAME="test16_BeautifulSoup Coverage Results" MODIFIED="1582683435263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_crawler$test_redis1__1_.coverage" NAME="test_redis1 (1) Coverage Results" MODIFIED="1582725020413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redistest" />
     <SUITE FILE_PATH="coverage/python_crawler$test11_lxml.coverage" NAME="test11_lxml Coverage Results" MODIFIED="1582645418595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_crawler$jiebatest1.coverage" NAME="jiebatest1 Coverage Results" MODIFIED="1582726707937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiebatest" />
     <SUITE FILE_PATH="coverage/python_crawler$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1582624112307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_crawler$test_redis2.coverage" NAME="test_redis2 Coverage Results" MODIFIED="1582725288513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redistest" />
     <SUITE FILE_PATH="coverage/python_crawler$test6_movie.coverage" NAME="test6_movie Coverage Results" MODIFIED="1582625401529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_crawler$test21_cnblogs.coverage" NAME="test21_cnblogs Coverage Results" MODIFIED="1582690043942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_crawler$test13_BeautifulSoup.coverage" NAME="test13_BeautifulSoup Coverage Results" MODIFIED="1582645621486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
