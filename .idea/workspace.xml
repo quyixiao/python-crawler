@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="771ea3aa-becf-4398-ad6e-a02a92fe38cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/book/spiders/dbbookspider.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/spiders/dbbook.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/spiders/dbbook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dbbookspider.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +44,12 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/book" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/book" />
     </key>
   </component>
   <component name="RunManager" selected="Python.test26_selenium">
@@ -194,7 +199,7 @@
       <workItem from="1582642559746" duration="175000" />
       <workItem from="1582642751690" duration="3491000" />
       <workItem from="1582683128151" duration="14806000" />
-      <workItem from="1582709414794" duration="1434000" />
+      <workItem from="1582709414794" duration="3020000" />
     </task>
     <servers />
   </component>
@@ -298,10 +303,11 @@
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
     <state x="638" y="-768" width="643" height="456" key="find.popup/40.0.1400.900/0.-1080.1920.1080/-1920.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582708120984" />
-    <state x="625" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1582708101476">
+    <state x="625" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1582712623045">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
     <state x="625" y="-839" width="670" height="676" key="search.everywhere.popup/38.0.1402.900/0.-1080.1920.1080/-1920.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582622036603" />
+    <state x="625" y="-839" width="670" height="676" key="search.everywhere.popup/39.0.1401.900/0.-1080.1920.1080/-1920.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582712623045" />
     <state x="625" y="-839" width="670" height="676" key="search.everywhere.popup/40.0.1400.900/0.-1080.1920.1080/-1920.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582708101476" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">

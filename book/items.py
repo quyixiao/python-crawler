@@ -11,4 +11,5 @@ import scrapy
 class BookItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    pass
+    title = scrapy.Field() # 书名
+    rate = scrapy.Field() # 评分
