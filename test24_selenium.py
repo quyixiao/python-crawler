@@ -13,7 +13,7 @@ driver.set_window_size(1280, 2400)  # 设置窗口大小
 
 # 保存图片
 def save_pic():
-    base_dir = 'tmp'
+    base_dir = '/tmp'
     filename = "{}{:%Y%m%d%H%M%S}{:03}.png".format(base_dir, datetime.datetime.now(), random.randint(1, 100))
     driver.save_screenshot(filename)
 
@@ -32,7 +32,7 @@ save_pic()
 
 # 模拟回车
 pwd.send_keys(Keys.ENTER)
-print('-'*30)
+print('-' * 30)
 print(driver.current_url)  # 当前url
 while True:
     time.sleep(1)
