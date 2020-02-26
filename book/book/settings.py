@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for first project
+# Scrapy settings for book project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,14 +9,14 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'first'
+BOT_NAME = 'book'
 
-SPIDER_MODULES = ['first.spiders']
-NEWSPIDER_MODULE = 'first.spiders'
+SPIDER_MODULES = ['book.spiders']
+NEWSPIDER_MODULE = 'book.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'first (+http://www.yourdomain.com)'
+#USER_AGENT = 'book (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -47,13 +47,13 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'first.middlewares.FirstSpiderMiddleware': 543,
+#    'book.middlewares.BookSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'first.middlewares.FirstDownloaderMiddleware': 543,
+#    'book.middlewares.BookDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -65,7 +65,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'first.pipelines.FirstPipeline': 300,
+#    'book.pipelines.BookPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
