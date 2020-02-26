@@ -75,7 +75,7 @@ def save(path):
 executor = ThreadPoolExecutor(10)
 executor.submit(create_urls, 1, 10)
 executor.submit(parser)
-executor.submit(save, 'news.txt')
+executor.submit(save, 'tmp/news.txt')
 
 
 for i in range(7):
