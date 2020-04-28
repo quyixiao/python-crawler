@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="771ea3aa-becf-4398-ad6e-a02a92fe38cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Test28_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redistest/test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1/test4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1/test5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1/test6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/test6.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1/test6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +49,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test27_google">
+  <component name="RunManager" selected="Python.test5">
     <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,9 +162,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test27_google" />
-        <item itemvalue="Python.test6" />
         <item itemvalue="Python.test5" />
+        <item itemvalue="Python.test6" />
+        <item itemvalue="Python.test27_google" />
         <item itemvalue="Python.test1" />
         <item itemvalue="Python.test4" />
       </list>
@@ -211,7 +205,7 @@
       <workItem from="1584437609368" duration="1107000" />
       <workItem from="1584722035314" duration="524000" />
       <workItem from="1584956271434" duration="1119000" />
-      <workItem from="1588038007790" duration="2777000" />
+      <workItem from="1588038007790" duration="3128000" />
     </task>
     <servers />
   </component>
@@ -223,7 +217,7 @@
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
     <state x="698" y="-784" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/38.0.1402.900/0.-1080.1920.1080/-1920.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582624404562" />
-    <state width="1878" height="285" key="GridCell.Tab.0.bottom" timestamp="1588040943353">
+    <state width="1878" height="130" key="GridCell.Tab.0.bottom" timestamp="1588041395803">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
     <state width="1833" height="280" key="GridCell.Tab.0.bottom/1920.180.1440.900/43.0.1877.1080@43.0.1877.1080" timestamp="1582725288522" />
@@ -248,10 +242,10 @@
     <state width="1353" height="146" key="GridCell.Tab.0.bottom/44.0.1396.900/0.-1080.1920.1080/-1920.-1080.1920.1080@44.0.1396.900" timestamp="1584956884040" />
     <state width="1353" height="110" key="GridCell.Tab.0.bottom/45.0.1395.900/0.-1080.1920.1080/-1920.-1080.1920.1080@45.0.1395.900" timestamp="1584956606618" />
     <state width="1878" height="206" key="GridCell.Tab.0.bottom/47.0.1393.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040240901" />
-    <state width="1878" height="285" key="GridCell.Tab.0.bottom/48.0.1392.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040943353" />
+    <state width="1878" height="339" key="GridCell.Tab.0.bottom/48.0.1392.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040975762" />
     <state width="1353" height="325" key="GridCell.Tab.0.bottom/48.0.1392.900/0.-1080.1920.1080/-1920.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1582767374832" />
-    <state width="1878" height="206" key="GridCell.Tab.0.bottom/50.0.1390.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040317535" />
-    <state width="1878" height="285" key="GridCell.Tab.0.center" timestamp="1588040943352">
+    <state width="1878" height="130" key="GridCell.Tab.0.bottom/50.0.1390.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588041395803" />
+    <state width="1878" height="130" key="GridCell.Tab.0.center" timestamp="1588041395802">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
     <state width="1833" height="280" key="GridCell.Tab.0.center/1920.180.1440.900/43.0.1877.1080@43.0.1877.1080" timestamp="1582725288521" />
@@ -276,10 +270,10 @@
     <state width="1353" height="146" key="GridCell.Tab.0.center/44.0.1396.900/0.-1080.1920.1080/-1920.-1080.1920.1080@44.0.1396.900" timestamp="1584956884039" />
     <state width="1353" height="110" key="GridCell.Tab.0.center/45.0.1395.900/0.-1080.1920.1080/-1920.-1080.1920.1080@45.0.1395.900" timestamp="1584956606617" />
     <state width="1878" height="206" key="GridCell.Tab.0.center/47.0.1393.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040240900" />
-    <state width="1878" height="285" key="GridCell.Tab.0.center/48.0.1392.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040943352" />
+    <state width="1878" height="339" key="GridCell.Tab.0.center/48.0.1392.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040975760" />
     <state width="1353" height="325" key="GridCell.Tab.0.center/48.0.1392.900/0.-1080.1920.1080/-1920.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1582767374832" />
-    <state width="1878" height="206" key="GridCell.Tab.0.center/50.0.1390.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040317534" />
-    <state width="1878" height="285" key="GridCell.Tab.0.left" timestamp="1588040943352">
+    <state width="1878" height="130" key="GridCell.Tab.0.center/50.0.1390.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588041395802" />
+    <state width="1878" height="130" key="GridCell.Tab.0.left" timestamp="1588041395802">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
     <state width="1833" height="280" key="GridCell.Tab.0.left/1920.180.1440.900/43.0.1877.1080@43.0.1877.1080" timestamp="1582725288520" />
@@ -304,10 +298,10 @@
     <state width="1353" height="146" key="GridCell.Tab.0.left/44.0.1396.900/0.-1080.1920.1080/-1920.-1080.1920.1080@44.0.1396.900" timestamp="1584956884039" />
     <state width="1353" height="110" key="GridCell.Tab.0.left/45.0.1395.900/0.-1080.1920.1080/-1920.-1080.1920.1080@45.0.1395.900" timestamp="1584956606616" />
     <state width="1878" height="206" key="GridCell.Tab.0.left/47.0.1393.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040240900" />
-    <state width="1878" height="285" key="GridCell.Tab.0.left/48.0.1392.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040943352" />
+    <state width="1878" height="339" key="GridCell.Tab.0.left/48.0.1392.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040975759" />
     <state width="1353" height="325" key="GridCell.Tab.0.left/48.0.1392.900/0.-1080.1920.1080/-1920.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1582767374831" />
-    <state width="1878" height="206" key="GridCell.Tab.0.left/50.0.1390.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040317533" />
-    <state width="1878" height="285" key="GridCell.Tab.0.right" timestamp="1588040943353">
+    <state width="1878" height="130" key="GridCell.Tab.0.left/50.0.1390.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588041395802" />
+    <state width="1878" height="130" key="GridCell.Tab.0.right" timestamp="1588041395803">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
     <state width="1833" height="280" key="GridCell.Tab.0.right/1920.180.1440.900/43.0.1877.1080@43.0.1877.1080" timestamp="1582725288522" />
@@ -332,10 +326,10 @@
     <state width="1353" height="146" key="GridCell.Tab.0.right/44.0.1396.900/0.-1080.1920.1080/-1920.-1080.1920.1080@44.0.1396.900" timestamp="1584956884039" />
     <state width="1353" height="110" key="GridCell.Tab.0.right/45.0.1395.900/0.-1080.1920.1080/-1920.-1080.1920.1080@45.0.1395.900" timestamp="1584956606618" />
     <state width="1878" height="206" key="GridCell.Tab.0.right/47.0.1393.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040240901" />
-    <state width="1878" height="285" key="GridCell.Tab.0.right/48.0.1392.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040943353" />
+    <state width="1878" height="339" key="GridCell.Tab.0.right/48.0.1392.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040975761" />
     <state width="1353" height="325" key="GridCell.Tab.0.right/48.0.1392.900/0.-1080.1920.1080/-1920.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1582767374832" />
-    <state width="1878" height="206" key="GridCell.Tab.0.right/50.0.1390.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040317534" />
-    <state width="1878" height="339" key="GridCell.Tab.1.bottom" timestamp="1588040852969">
+    <state width="1878" height="130" key="GridCell.Tab.0.right/50.0.1390.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588041395803" />
+    <state width="1878" height="158" key="GridCell.Tab.1.bottom" timestamp="1588041103397">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
     <state width="1398" height="294" key="GridCell.Tab.1.bottom/1920.180.1440.900/45.0.1875.1080@1920.180.1440.900" timestamp="1582644328400" />
@@ -347,8 +341,9 @@
     <state width="1878" height="365" key="GridCell.Tab.1.bottom/43.0.1397.900/0.-1080.1920.1080/-1920.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582689789092" />
     <state width="1878" height="364" key="GridCell.Tab.1.bottom/45.0.1395.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588039673796" />
     <state width="1878" height="114" key="GridCell.Tab.1.bottom/47.0.1393.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040056684" />
-    <state width="1878" height="339" key="GridCell.Tab.1.bottom/48.0.1392.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040852969" />
-    <state width="1878" height="339" key="GridCell.Tab.1.center" timestamp="1588040852968">
+    <state width="1878" height="339" key="GridCell.Tab.1.bottom/48.0.1392.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040975673" />
+    <state width="1878" height="158" key="GridCell.Tab.1.bottom/50.0.1390.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588041103397" />
+    <state width="1878" height="158" key="GridCell.Tab.1.center" timestamp="1588041103396">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
     <state width="1398" height="294" key="GridCell.Tab.1.center/1920.180.1440.900/45.0.1875.1080@1920.180.1440.900" timestamp="1582644328399" />
@@ -360,8 +355,9 @@
     <state width="1878" height="365" key="GridCell.Tab.1.center/43.0.1397.900/0.-1080.1920.1080/-1920.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582689789091" />
     <state width="1878" height="364" key="GridCell.Tab.1.center/45.0.1395.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588039673791" />
     <state width="1878" height="114" key="GridCell.Tab.1.center/47.0.1393.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040056683" />
-    <state width="1878" height="339" key="GridCell.Tab.1.center/48.0.1392.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040852968" />
-    <state width="1878" height="339" key="GridCell.Tab.1.left" timestamp="1588040852968">
+    <state width="1878" height="339" key="GridCell.Tab.1.center/48.0.1392.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040975672" />
+    <state width="1878" height="158" key="GridCell.Tab.1.center/50.0.1390.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588041103396" />
+    <state width="1878" height="158" key="GridCell.Tab.1.left" timestamp="1588041103395">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
     <state width="1398" height="294" key="GridCell.Tab.1.left/1920.180.1440.900/45.0.1875.1080@1920.180.1440.900" timestamp="1582644328399" />
@@ -373,8 +369,9 @@
     <state width="1878" height="365" key="GridCell.Tab.1.left/43.0.1397.900/0.-1080.1920.1080/-1920.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582689789090" />
     <state width="1878" height="364" key="GridCell.Tab.1.left/45.0.1395.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588039673789" />
     <state width="1878" height="114" key="GridCell.Tab.1.left/47.0.1393.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040056682" />
-    <state width="1878" height="339" key="GridCell.Tab.1.left/48.0.1392.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040852968" />
-    <state width="1878" height="339" key="GridCell.Tab.1.right" timestamp="1588040852968">
+    <state width="1878" height="339" key="GridCell.Tab.1.left/48.0.1392.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040975672" />
+    <state width="1878" height="158" key="GridCell.Tab.1.left/50.0.1390.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588041103395" />
+    <state width="1878" height="158" key="GridCell.Tab.1.right" timestamp="1588041103396">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
     <state width="1398" height="294" key="GridCell.Tab.1.right/1920.180.1440.900/45.0.1875.1080@1920.180.1440.900" timestamp="1582644328399" />
@@ -386,7 +383,8 @@
     <state width="1878" height="365" key="GridCell.Tab.1.right/43.0.1397.900/0.-1080.1920.1080/-1920.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582689789091" />
     <state width="1878" height="364" key="GridCell.Tab.1.right/45.0.1395.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588039673793" />
     <state width="1878" height="114" key="GridCell.Tab.1.right/47.0.1393.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040056683" />
-    <state width="1878" height="339" key="GridCell.Tab.1.right/48.0.1392.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040852968" />
+    <state width="1878" height="339" key="GridCell.Tab.1.right/48.0.1392.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588040975673" />
+    <state width="1878" height="158" key="GridCell.Tab.1.right/50.0.1390.900/-1920.-1080.1920.1080/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1588041103396" />
     <state x="741" y="-823" key="RollbackChangesDialog" timestamp="1588040740756">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
@@ -424,7 +422,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_crawler$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1582623997982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_crawler$test8_urllib3.coverage" NAME="test8_urllib3 Coverage Results" MODIFIED="1582644891124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_crawler$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1588039668728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1" />
+    <SUITE FILE_PATH="coverage/python_crawler$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1588041395792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1" />
     <SUITE FILE_PATH="coverage/python_crawler$test14_BeautifulSoup.coverage" NAME="test14_BeautifulSoup Coverage Results" MODIFIED="1582646045339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_crawler$test_redis1.coverage" NAME="test_redis1 Coverage Results" MODIFIED="1582724595788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redis" />
     <SUITE FILE_PATH="coverage/python_crawler$test22_selenium.coverage" NAME="test22_selenium Coverage Results" MODIFIED="1582692611853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -433,9 +431,9 @@
     <SUITE FILE_PATH="coverage/python_crawler$test16_BeautifulSoup.coverage" NAME="test16_BeautifulSoup Coverage Results" MODIFIED="1582683435263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_crawler$test_redis1__1_.coverage" NAME="test_redis1 (1) Coverage Results" MODIFIED="1582725020413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redistest" />
     <SUITE FILE_PATH="coverage/python_crawler$test11_lxml.coverage" NAME="test11_lxml Coverage Results" MODIFIED="1582645418595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_crawler$test27_google.coverage" NAME="test27_google Coverage Results" MODIFIED="1588040943346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_crawler$test27_google.coverage" NAME="test27_google Coverage Results" MODIFIED="1588041103374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_crawler$jiebatest1.coverage" NAME="jiebatest1 Coverage Results" MODIFIED="1582726707937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiebatest" />
-    <SUITE FILE_PATH="coverage/python_crawler$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1588040128679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1" />
+    <SUITE FILE_PATH="coverage/python_crawler$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1588041338720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1" />
     <SUITE FILE_PATH="coverage/python_crawler$test_redis2.coverage" NAME="test_redis2 Coverage Results" MODIFIED="1582767317016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redistest" />
     <SUITE FILE_PATH="coverage/python_crawler$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1583414775463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redistest" />
     <SUITE FILE_PATH="coverage/python_crawler$test6_movie.coverage" NAME="test6_movie Coverage Results" MODIFIED="1582625401529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

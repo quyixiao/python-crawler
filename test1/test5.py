@@ -21,7 +21,7 @@ os.environ["webdriver.chrome.driver"] = chromedriver
 
 chrome_options.add_argument('--proxy-server={0}'.format(proxy.proxy))
 
-driver = webdriver.Chrome(chrome_options=chrome_options)
+driver = webdriver.Chrome(chromedriver,options=chrome_options)
 
 # 要访问的地址
 base_url = "http://www.liuyanlin.cn/ht_list3.html"

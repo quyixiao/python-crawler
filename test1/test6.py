@@ -1,6 +1,7 @@
 from selenium import webdriver
 from browsermobproxy import Server
 import os
+import time
 from selenium.webdriver.chrome.options import Options
 
 server = Server(r'/Users/quyixiao/Downloads/browsermob-proxy-2.1.4/bin/browsermob-proxy')
@@ -18,15 +19,23 @@ os.environ["webdriver.chrome.driver"] = chromedriver
 
 
 
-driver = webdriver.Chrome(chrome_options=chrome_options)
+
+driver = webdriver.Chrome(chromedriver,options=chrome_options)
+
 print("=============================================")
 
 base_url = "https://www.iesdouyin.com/share/user/63174596206"
 proxy.new_har("douyin", options={'captureHeaders': True, 'captureContent': True})
+
 driver.get(base_url)
 
+time.sleep(5)
 
 result = proxy.har
+
+
+
+print("+++++++++++++++++++++++++" ,result)
 
 for entry in result['log']['entries']:
     _url = entry['request']['url']
